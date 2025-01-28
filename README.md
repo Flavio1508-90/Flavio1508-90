@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Flavio1508-90
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Full Stack 
+- 👀 I’m interested in programming  
 - 💞️ I’m looking to collaborate on web creator
 
 
